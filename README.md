@@ -43,3 +43,27 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
+
+
+I have a Masters in Computer Science from Nuces Fast lhr. specializing in Machine-Learning/Ai, Advanced Algorithms, Theory of Computation and Cloud Infrastructure. I have a passion for technology and love to deep dive in different tech stacks to keep up with our current technology revolution. My philosophy is to live my life as a student; to keep learning, understanding and overcoming all the challenges. I keep myself on a quest of knowledge and the more I roam the more I have realized that this is an everlasting journey.
+
+GIF
+
+About 💎
+☯ I'm an AI Enthusiast | Machine-Learning Expert | Researcher
+
+🌱 Learning new things everyday.
+🚀 Science Enthusiast who loves to learn the mysteries of the Universe.
+👨‍💻 Full stack dev who loves to incorporate ML or AI in native projects.
+😄 I like to make open source contributions.
+🌱 I love to learn new Technologies and ready to help others.
+👯 I like to experience life at its fullest.
+Hello world! 
+💬 Ask me about anything and everything!
+📫 How to reach me: https://www.linkedin.com/in/sharoz-haseeb/
+⚡ Fun fact: I love anime!
+
+
+C C++ HTML-5 CSS Javascript My-SQL Java python gcp Firebase Android
+
+footer
