@@ -11,6 +11,7 @@
 📫 How to reach me https://www.upwork.com/freelancers/~0126cb582947d7a5f4?mp_source=share
 
 ⚡ Fun fact
+![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
 
 
 <!--
