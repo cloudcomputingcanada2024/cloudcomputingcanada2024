@@ -66,4 +66,5 @@ Hello world!
 
 C C++ HTML-5 CSS Javascript My-SQL Java python gcp Firebase Android
 
-footer
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
