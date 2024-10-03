@@ -6,10 +6,12 @@
 
 ☯ I'm an AI Enthusiast | Machine-Learning Expert | Researcher<br><br>🌱 Learning new things everyday.<br>🚀 Science Enthusiast who loves to learn the mysteries of the Universe.<br>👨‍💻 Full stack dev who loves to incorporate ML or AI in native projects.<br>😄 I like to make open source contributions.<br>🌱 I love to learn new Technologies and ready to help others.<br>👯 I like to experience life at its fullest.
 
-💫 Hello Workd:
-💬 Ask me about anything and everything!
-📫 How to reach me: [upwork link](https://www.upwork.com/freelancers/~0126cb582947d7a5f4)
-⚡ Fun fact: I love anime!
+
+<h1 align="left">Hello Workd: </h1>
+
+💬 Ask me about anything and everything!<br>
+📫 How to reach me: [upwork link](https://www.upwork.com/freelancers/~0126cb582947d7a5f4)<br>
+⚡ Fun fact: I love anime!<br>
 
 
 # 💻 Tech Stack:
@@ -18,6 +20,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=cloudcomputingcanada2024&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cloudcomputingcanada2024&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudcomputingcanada2024&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cloudcomputingcanada2024&icon=0&color=0)](https://visitcount.itsvg.in)
