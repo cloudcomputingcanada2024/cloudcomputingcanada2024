@@ -71,6 +71,14 @@ C C++ HTML-5 CSS Javascript My-SQL Java python gcp Firebase Android
 
 <h3>My GitHub contributions summary</h3>
 
+![cloudcomputingcanada2024's Stats](https://github-readme-stats.vercel.app/api?username=cloudcomputingcanada2024&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
+
+
+
+
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your_username&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 ![cloudcomputingcanada2024's Stats](https://github-readme-stats.vercel.app/api?username=cloudcomputingcanada2024&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
